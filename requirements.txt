@@ -1,7 +1,7 @@
 requests
 beautifulsoup4
 wbdata
-pandas
+pandas==0.25 
 matplotlib
 lxml
 pytrends
@@ -17,3 +17,7 @@ cufflinks
 plotly
 chart_studio
 sklearn
+streamlit
+optuna
+scikit-plot
+imblearn
