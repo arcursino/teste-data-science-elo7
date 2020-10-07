@@ -2,8 +2,9 @@
 
 O teste é composto por duas etapas:
 
-    1 - Um documento (jupyter notebook) que explique quais serão as etapas realizadas para resolver o problema(etapas.ipynb).
-    2 - Um documento (jupyter notebook) que contém a implementação do teste técnico (analise_final.ipynb).  
+1. Um documento (jupyter notebook) que explique quais serão as etapas realizadas para resolver o problema [etapas](etapas.ipynb)
+
+2. Um documento (jupyter notebook) que contém a implementação do teste técnico [analise final](analise_final.ipynb)
 
 ## Recomendações para o uso:
 
